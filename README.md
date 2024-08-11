@@ -12,8 +12,9 @@ Approach:
 > First create the HTML structure and then add title for the webpage and link external CSS files (`style.css` and Bootstrap).
  
 > Utilize Bootstrap Navbar for a responsive navigation bar and include a brand/logo and navigation links for different sections.
+
  
-> Create a <section> for a welcoming message and apply Bootstrap styling classes and alignment also integrate a call-to-action button for reservations.
+> Create a (section) for a welcoming message and apply Bootstrap styling classes and alignment also integrate a call-to-action button for reservations.
 
 > Divide the page into sections for About, Carousel, and Reservation by using Bootstrap grid system for layout and design.
 
